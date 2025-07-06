@@ -2,6 +2,8 @@
 
 This is an example of a Python Worker that uses the FastMCP package.
 
+%% Borrowed by Thomas Powell %%
+
 [![Deploy to Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/cloudflare/ai/tree/main/demos/python-workers-mcp)
 
 >[!NOTE]
