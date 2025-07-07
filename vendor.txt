@@ -1,3 +1,2 @@
-pydantic-core
 mcp
 structlog
